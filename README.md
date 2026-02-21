@@ -27,6 +27,6 @@ Now my Japanese and English songs live happily in their own "albums"
 
 ```bash
 python batch_album.py
-
+```
 3. Choose the album name you want (e.g., "Chill" or "Pop").
 4. Your songs are now “organized” like a playlist! 🎉
